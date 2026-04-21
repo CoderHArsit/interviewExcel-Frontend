@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.6](https://github.com/CoderHArsit/interviewExcel-Frontend/compare/v0.1.5...v0.1.6) (2026-04-21)
+
+
+### Bug Fixes
+
+* rename Auth folder to auth for correct route resolution ([fcc2a38](https://github.com/CoderHArsit/interviewExcel-Frontend/commit/fcc2a3851acaa212ce542f0a88928ce618c21d4f))
+* rename Auth folder to auth for correct route resolution ([0419e89](https://github.com/CoderHArsit/interviewExcel-Frontend/commit/0419e895caf2ed75f570317869b428767e9c2eea))
+
 ## [0.1.5](https://github.com/CoderHArsit/interviewExcel-Frontend/compare/v0.1.4...v0.1.5) (2026-03-31)
 
 
