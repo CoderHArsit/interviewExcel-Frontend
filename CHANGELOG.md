@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.7](https://github.com/CoderHArsit/interviewExcel-Frontend/compare/v0.1.6...v0.1.7) (2026-04-21)
+
+
+### Bug Fixes
+
+* use yarn instead of npm in prod deploy workflow ([cbc4fcd](https://github.com/CoderHArsit/interviewExcel-Frontend/commit/cbc4fcd59265b330d7cd1a0967ebe652bd03fa27))
+* use yarn instead of npm in prod deploy workflow ([0cf4a37](https://github.com/CoderHArsit/interviewExcel-Frontend/commit/0cf4a3717a752d4509fda86f8ba07b97b0a8efb3))
+
 ## [0.1.6](https://github.com/CoderHArsit/interviewExcel-Frontend/compare/v0.1.5...v0.1.6) (2026-04-21)
 
 
